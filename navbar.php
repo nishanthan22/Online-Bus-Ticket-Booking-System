@@ -5,7 +5,7 @@
 
       <nav class="nav-menu d-none d-lg-block" id='top-nav'>
         <ul>
-          <li class="nav-home"><a href="./index.php?page=home">Home</a></li>
+          <li class="nav-home"><a href="./index.php?page=home">Home</a></li> 
            <li class="nav-schedule"><a href="./index.php?page=schedule">Schedule</a></li>
              
               
