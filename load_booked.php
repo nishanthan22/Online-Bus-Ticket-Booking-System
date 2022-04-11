@@ -4,7 +4,7 @@ $query = $conn->query("SELECT b.*,(s.price * b.qty) as amount from booked b inne
 $data = array();
 while($row = $query->fetch_assoc()){
 	$data[] = $row;
-}
+} 
 echo json_encode($data);
 
 ?>
